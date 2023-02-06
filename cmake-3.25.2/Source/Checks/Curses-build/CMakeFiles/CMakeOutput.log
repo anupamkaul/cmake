@@ -1,0 +1,42 @@
+Determining if the function wsyncup exists in the /usr/lib/x86_64-linux-gnu/libcurses.so passed with the following output:
+Change Dir: /home/anupam/cmake_src/cmake-3.25.2/Source/Checks/Curses-build/CMakeFiles/CMakeScratch/TryCompile-Ln5NbF
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_8035a/fast && make  -f CMakeFiles/cmTC_8035a.dir/build.make CMakeFiles/cmTC_8035a.dir/build
+make[1]: Entering directory '/home/anupam/cmake_src/cmake-3.25.2/Source/Checks/Curses-build/CMakeFiles/CMakeScratch/TryCompile-Ln5NbF'
+Building C object CMakeFiles/cmTC_8035a.dir/CheckFunctionExists.c.o
+/usr/lib/ccache/gcc   -DCHECK_FUNCTION_EXISTS=wsyncup -o CMakeFiles/cmTC_8035a.dir/CheckFunctionExists.c.o -c /home/anupam/cmake_src/cmake-3.25.2/Source/Checks/Curses-build/CMakeFiles/CMakeScratch/TryCompile-Ln5NbF/CheckFunctionExists.c
+Linking C executable cmTC_8035a
+/home/anupam/cmake_src/cmake-3.25.2/Bootstrap.cmk/cmake -E cmake_link_script CMakeFiles/cmTC_8035a.dir/link.txt --verbose=1
+/usr/lib/ccache/gcc  -DCHECK_FUNCTION_EXISTS=wsyncup -rdynamic CMakeFiles/cmTC_8035a.dir/CheckFunctionExists.c.o -o cmTC_8035a  -lcurses 
+make[1]: Leaving directory '/home/anupam/cmake_src/cmake-3.25.2/Source/Checks/Curses-build/CMakeFiles/CMakeScratch/TryCompile-Ln5NbF'
+
+
+
+Determining if the function cbreak exists in the /usr/lib/x86_64-linux-gnu/libncurses.so passed with the following output:
+Change Dir: /home/anupam/cmake_src/cmake-3.25.2/Source/Checks/Curses-build/CMakeFiles/CMakeScratch/TryCompile-UtzUVK
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_9e27c/fast && make  -f CMakeFiles/cmTC_9e27c.dir/build.make CMakeFiles/cmTC_9e27c.dir/build
+make[1]: Entering directory '/home/anupam/cmake_src/cmake-3.25.2/Source/Checks/Curses-build/CMakeFiles/CMakeScratch/TryCompile-UtzUVK'
+Building C object CMakeFiles/cmTC_9e27c.dir/CheckFunctionExists.c.o
+/usr/lib/ccache/gcc   -DCHECK_FUNCTION_EXISTS=cbreak -o CMakeFiles/cmTC_9e27c.dir/CheckFunctionExists.c.o -c /home/anupam/cmake_src/cmake-3.25.2/Source/Checks/Curses-build/CMakeFiles/CMakeScratch/TryCompile-UtzUVK/CheckFunctionExists.c
+Linking C executable cmTC_9e27c
+/home/anupam/cmake_src/cmake-3.25.2/Bootstrap.cmk/cmake -E cmake_link_script CMakeFiles/cmTC_9e27c.dir/link.txt --verbose=1
+/usr/lib/ccache/gcc  -DCHECK_FUNCTION_EXISTS=cbreak -rdynamic CMakeFiles/cmTC_9e27c.dir/CheckFunctionExists.c.o -o cmTC_9e27c  -lncurses 
+make[1]: Leaving directory '/home/anupam/cmake_src/cmake-3.25.2/Source/Checks/Curses-build/CMakeFiles/CMakeScratch/TryCompile-UtzUVK'
+
+
+
+Determining if the function nodelay exists in the /usr/lib/x86_64-linux-gnu/libncurses.so passed with the following output:
+Change Dir: /home/anupam/cmake_src/cmake-3.25.2/Source/Checks/Curses-build/CMakeFiles/CMakeScratch/TryCompile-ZwMKRQ
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_a44e8/fast && make  -f CMakeFiles/cmTC_a44e8.dir/build.make CMakeFiles/cmTC_a44e8.dir/build
+make[1]: Entering directory '/home/anupam/cmake_src/cmake-3.25.2/Source/Checks/Curses-build/CMakeFiles/CMakeScratch/TryCompile-ZwMKRQ'
+Building C object CMakeFiles/cmTC_a44e8.dir/CheckFunctionExists.c.o
+/usr/lib/ccache/gcc   -DCHECK_FUNCTION_EXISTS=nodelay -o CMakeFiles/cmTC_a44e8.dir/CheckFunctionExists.c.o -c /home/anupam/cmake_src/cmake-3.25.2/Source/Checks/Curses-build/CMakeFiles/CMakeScratch/TryCompile-ZwMKRQ/CheckFunctionExists.c
+Linking C executable cmTC_a44e8
+/home/anupam/cmake_src/cmake-3.25.2/Bootstrap.cmk/cmake -E cmake_link_script CMakeFiles/cmTC_a44e8.dir/link.txt --verbose=1
+/usr/lib/ccache/gcc  -DCHECK_FUNCTION_EXISTS=nodelay -rdynamic CMakeFiles/cmTC_a44e8.dir/CheckFunctionExists.c.o -o cmTC_a44e8  -lncurses 
+make[1]: Leaving directory '/home/anupam/cmake_src/cmake-3.25.2/Source/Checks/Curses-build/CMakeFiles/CMakeScratch/TryCompile-ZwMKRQ'
+
+
+

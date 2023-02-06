@@ -1,0 +1,1 @@
+/usr/lib/ccache/g++ -O3 -DNDEBUG CMakeFiles/testConsoleBufChild.dir/testConsoleBufChild.cxx.o -o testConsoleBufChild  libcmsys.a -ldl 

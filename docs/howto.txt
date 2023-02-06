@@ -1,0 +1,8 @@
+Approach:
+
+1. I used steps B (without the removal step in A1)
+2. This is because A1 removal was removing ros-kinetic packages from ubuntu 16.04
+
+cmake is built locally and installed in /usr/local/bin/cmake  (version 3.25.2)
+
+
